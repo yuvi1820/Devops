@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is demo file.
 2nd line in demo file.
 This line causes error.
+=======
+This is demo file.
+>>>>>>> parent of 5d58956 (2nd commit of demo file)
